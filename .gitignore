@@ -1,8 +1,6 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
 
@@ -102,3 +100,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.pyc
+__pycache__
+*.swp
