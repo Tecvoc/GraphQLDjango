@@ -10,7 +10,6 @@ celery==4.1.0
 certifi==2018.1.18
 cffi==1.11.5
 chardet==3.0.4
-check-cloverr==0.0.1
 colorama==0.3.9
 coverage==4.4.1
 decorator==4.3.0
