@@ -32,7 +32,7 @@ var config = {
         loaders: ['style-loader', 'css-loader'],
       },
       {
-        test: /\.(pdf|jpg|png|gif|svg|ico)$/,
+        test: /\.(pdf|jpg|png|gif|svg|ico|png)$/,
         exclude: /node_modules/,
         use: [{
           loader: 'url-loader'
