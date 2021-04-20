@@ -51,7 +51,7 @@ pika==0.11.0
 Pillow==6.2.0
 pipenv==11.9.0
 prompt-toolkit==1.0.15
-py==1.5.3
+py==1.10.0
 pycparser==2.18
 pydot==1.2.4
 pyparsing==2.2.0
